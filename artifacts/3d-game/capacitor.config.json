@@ -1,0 +1,14 @@
+{
+  "appId": "com.marblemaze.game",
+  "appName": "Marble Maze 3D",
+  "webDir": "dist/public",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "buildOptions": {
+      "keystorePath": "release.keystore",
+      "keystoreAlias": "key0"
+    }
+  }
+}
